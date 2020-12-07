@@ -1,0 +1,656 @@
+Cocktail,page,ingredient,amount,units
+Aku Aku,39,chunk of fresh pineapple,5,1 inch square
+Aku Aku,39,mint leaves,8,leaves
+Aku Aku,39,lime juice,1,oz
+Aku Aku,39,SC Demerara Syrup,0.5,oz
+Aku Aku,39,"natural peach liquer (Mathilde, Combier, or Giffard)",0.5,oz
+Aku Aku,39,Rum 2,1.5,oz
+Pupule,39,spiral cut orange peel,1,peel
+Pupule,39,fresh lime juice,0.75,oz
+Pupule,39,fresh orange juice,0.75,oz
+Pupule,39,SC Cinnamon Syrup,0.25,oz
+Pupule,39,SC Vanilla Syrup,0.25,oz
+Pupule,39,St Elizabeth Allspice Dram,0.25,oz
+Pupule,39,Rum 4,2,oz
+Pupule,39,Angostra,1,dash
+Don's Own Grog,40,fresh lime juice,0.75,oz
+Don's Own Grog,40,SC Demerara Syrup,0.25,oz
+Don's Own Grog,40,SC Grenadine,1,dash
+Don's Own Grog,40,Leopold Brother Rocky Mountain Blackberry Liqueur,0.5,oz
+Don's Own Grog,40,Rum 3,1,oz
+Don's Own Grog,40,Rum 2,0.5,oz
+Don's Own Grog,40,Rum 5,0.5,oz
+Don's Own Grog,40,Angostra,1,dash
+Port Au Prince,40,fresh lime juice,0.5,oz
+Port Au Prince,40,pineapple juice,0.5,oz
+Port Au Prince,40,SC Demerara Syrup,0.25,oz
+Port Au Prince,40,SC Grenadine,1,dash
+Port Au Prince,40,John D Taylor Velvet Falernum,0.5,oz
+Port Au Prince,40,cane coffey still aged rum,1.5,oz
+Port Au Prince,40,Angostra,1,dash
+Three Dots and a Dash,43,fresh lime juice,0.5,oz
+Three Dots and a Dash,43,fresh orange juice,0.5,oz
+Three Dots and a Dash,43,SC honey Syrup,0.5,oz
+Three Dots and a Dash,43,John D Taylor Velvet Falernum,0.25,oz
+Three Dots and a Dash,43,St Elizabeth Allspice Dram,0.25,oz
+Three Dots and a Dash,43,Rhum 8,1.5,oz
+Three Dots and a Dash,43,Rum 3,0.5,oz
+Three Dots and a Dash,43,Angostra,1,dash
+Mexian El Diablo,43,lime wedge,1,wedge
+Mexian El Diablo,43,fresh lime juice,0.5,oz
+Mexian El Diablo,43,natural cräme de cassis,0.5,oz
+Mexian El Diablo,43,blanco tequila,1.5,oz
+Mexian El Diablo,43,real ginger ale,4,oz
+Port Light,44,egg white,1,oz
+Port Light,44,bourbon,2,oz
+Port Light,44,fresh lemon juice,1,oz
+Port Light,44,SC honey Syrup,0.75,oz
+Port Light,44,SC Passion Fruit Syrup,0.5,oz
+Demerara Dry Float,44,Rum 6,0.75,oz
+Demerara Dry Float,44,fresh lime juice,2,oz
+Demerara Dry Float,44,fresh lemon juice,1,tsp
+Demerara Dry Float,44,SC Passion Fruit Syrup,1.5,oz
+Demerara Dry Float,44,SC Demerara Syrup,0.25,oz
+Demerara Dry Float,44,Luxardo Maraschino liqueur,0.25,oz
+Demerara Dry Float,44,Rum 3,1.5,oz
+Jet Pilot,61,fresh lime juice,0.5,oz
+Jet Pilot,61,fresh grapefruit juice,0.5,oz
+Jet Pilot,61,SC Cinnamon Syrup,0.5,oz
+Jet Pilot,61,John D Taylor Velvet Falernum,0.5,oz
+Jet Pilot,61,Rum 5,1,oz
+Jet Pilot,61,Rum 3,0.75,oz
+Jet Pilot,61,Rum 6,0.75,oz
+Jet Pilot,61,Herbstura,1,dash
+Halekulani Cocktail,61,fresh lemon juice,0.5,oz
+Halekulani Cocktail,61,fresh orange juice,0.5,oz
+Halekulani Cocktail,61,pineapple juice,0.5,oz
+Halekulani Cocktail,61,SC Demerara Syrup,0.25,oz
+Halekulani Cocktail,61,SC Grenadine,0.5,tsp
+Halekulani Cocktail,61,bourbon,1.5,oz
+Halekulani Cocktail,61,Angostra,1,dash
+Sidewinder's Fang,62,Orange Peel,1,peel
+Sidewinder's Fang,62,fresh lime juice,1.5,oz
+Sidewinder's Fang,62,fresh orange juice,1.5,oz
+Sidewinder's Fang,62,SC Passion Fruit Syrup,1.5,oz
+Sidewinder's Fang,62,seltzer,3,oz
+Sidewinder's Fang,62,Rum 3,1,oz
+Sidewinder's Fang,62,Rum 5,1,oz
+Hawaiian Sunset,62,fresh lime juice,0.5,oz
+Hawaiian Sunset,62,fresh lemon juice,0.5,oz
+Hawaiian Sunset,62,SC Orgeat,0.5,oz
+Hawaiian Sunset,62,SC Grenadine,1,tsp
+Hawaiian Sunset,62,vodka,1.5,oz
+Hawaiian Sunset,62,lime peel,1,peel
+Captain's Grog,65,fresh lime juice,0.5,oz
+Captain's Grog,65,fresh grapefruit juice,0.5,oz
+Captain's Grog,65,grade A maple syrup,0.5,oz
+Captain's Grog,65,pure vanilla extract,3,drops
+Captain's Grog,65,pure almond extract,3,drops
+Captain's Grog,65,seltzer,1,oz
+Captain's Grog,65,John D Taylor Velvet Falernum,0.5,oz
+Captain's Grog,65,Pierre Ferrand Dry Curacao,0.5,oz
+Captain's Grog,65,Rum 5,0.75,oz
+Captain's Grog,65,Rum 2,0.75,oz
+Captain's Grog,65,Rum 3,0.75,oz
+Suffering Bastard,65,ginger beer,4,oz
+Suffering Bastard,65,fresh lime juice,0.5,oz
+Suffering Bastard,65,SC Demerara Syrup,0.25,oz
+Suffering Bastard,65,London dry gin,1,oz
+Suffering Bastard,65,brandy,1,oz
+Suffering Bastard,65,Angostra,2,dashs
+Merciless Virgin,67,fresh lemon juice,0.75,oz
+Merciless Virgin,67,seltzer,0.5,oz
+Merciless Virgin,67,Cherry Heering Liqueur,0.5,oz
+Merciless Virgin,67,John D Taylor Velvet Falernum,0.5,oz
+Merciless Virgin,67,Pierre Ferrand Dry Curacao,0.25,oz
+Merciless Virgin,67,Rum 2,1.5,oz
+Saturn,67,fresh lemon juice,0.75,oz
+Saturn,67,SC Passion Fruit Syrup,0.5,oz
+Saturn,67,SC Orgeat,0.25,oz
+Saturn,67,John D Taylor Velvet Falernum,0.25,oz
+Saturn,67,London dry gin,1.25,oz
+Saturn,67,Lemon Peel,1,peel
+Tiki Bowl,68,fresh orange juice,1.5,oz
+Tiki Bowl,68,fresh lime juice,0.75,oz
+Tiki Bowl,68,SC honey Syrup,1,oz
+Tiki Bowl,68,Rum 5,1.25,oz
+Tiki Bowl,68,Rum 6,1,oz
+Tiki Bowl,68,Rum 4,1,oz
+Tiki Bowl,68,Herbstura,2,dashes
+Hurricane,68,fresh lemon juice,2,oz
+Hurricane,68,SC Passion Fruit Syrup,2,oz
+Hurricane,68,Rum 5,4,oz
+Mundo Perdido,93,fresh lemon juice,0.75,oz
+Mundo Perdido,93,SC Cinnamon Syrup,0.25,oz
+Mundo Perdido,93,SC Demerara Syrup,0.25,oz
+Mundo Perdido,93,Apple Brandy,0.5,oz
+Mundo Perdido,93,Rum 5,1.5,oz
+Formidable Dragon,93,fresh lemon juice,0.75,oz
+Formidable Dragon,93,fresh lime juice,0.75,oz
+Formidable Dragon,93,SC honey Syrup,0.5,oz
+Formidable Dragon,93,SC Molasses Syrup,0.75,oz
+Formidable Dragon,93,Amaro Di Angostura,0.5,oz
+Formidable Dragon,93,Rum 3,1.5,oz
+Formidable Dragon,93,Rum 5,1,oz
+Formidable Dragon,93,Rum 1 Overproof,0.25,oz
+Formidable Dragon,93,seltzer,1,oz
+Lei Lani Volcano 2.0,94,Bundaberg Guava soda,3,oz
+Lei Lani Volcano 2.0,94,pineapple juice,1.5,oz
+Lei Lani Volcano 2.0,94,lime juice,0.75,oz
+Lei Lani Volcano 2.0,94,SC coconut cream,1,oz
+Lei Lani Volcano 2.0,94,Rum 3,1.5,oz
+Tradewinds,94,fresh lemon juice,1,oz
+Tradewinds,94,SC coconut cream,1.5,oz
+Tradewinds,94,natural apricot liqueur Rothman and Wintor or Giffard,1,oz
+Tradewinds,94,Rum 5,1,oz
+Tradewinds,94,Rum 2,1,oz
+Peachtree Punch 2.0,96,yellow or white peach,0.5,peach
+Peachtree Punch 2.0,96,fresh orange juice,3,oz
+Peachtree Punch 2.0,96,fresh lemon juice,0.5,oz
+Peachtree Punch 2.0,96,SC coconut cream,1,oz
+Peachtree Punch 2.0,96,"natural peach liquer (Mathilde, Combier, or Giffard)",0.25,oz
+Peachtree Punch 2.0,96,Rum 2,2,oz
+Peachtree Punch 2.0,96,seltzer,1,oz
+Jungle Bird,96,pineapple juice,2,oz
+Jungle Bird,96,fresh lime jucie,0.5,oz
+Jungle Bird,96,SC Demerara Syrup,0.5,oz
+Jungle Bird,96,Campari,0.75,oz
+Jungle Bird,96,Rum 5,1.5,oz
+Golden Gun,97,fresh lime juice,0.75,oz
+Golden Gun,97,fresh grapefruit juice,0.5,oz
+Golden Gun,97,SC Demerara Syrup,0.5,oz
+Golden Gun,97,natural apricot liqueur Rothman and Wintor or Giffard,0.5,oz
+Golden Gun,97,Rum 3,1,oz
+Golden Gun,97,Rum 2,1,oz
+Golden Gun,97,Angostra,2,dashes
+Hinky Dinks Fizzy,97,sparkling wine,2,oz
+Hinky Dinks Fizzy,97,pineapple juice,1.5,oz
+Hinky Dinks Fizzy,97,fresh lime juice,0.5,oz
+Hinky Dinks Fizzy,97,SC Passion Fruit Syrup,0.5,oz
+Hinky Dinks Fizzy,97,natural apricot liqueur Rothman and Wintor or Giffard,0.5,oz
+Hinky Dinks Fizzy,97,London dry gin,1,oz
+Hinky Dinks Fizzy,97,Rum 2,1,oz
+Pampanito,115,fresh lemon juice,1,oz
+Pampanito,115,SC Molasses Syrup,1,oz
+Pampanito,115,seltzer,2.5,oz
+Pampanito,115,St Elizabeth Allspice Dram,0.25,oz
+Pampanito,115,Rum 5,1.5,oz
+Pampanito,115,Angostra,1,dash
+Max's Mistake,115,fresh lemon juice,1,oz
+Max's Mistake,115,SC Passion Fruit Syrup,1,oz
+Max's Mistake,115,SC honey Syrup,0.5,oz
+Max's Mistake,115,London dry gin,2,oz
+Max's Mistake,115,Angostra,1,dash
+Max's Mistake,115,Fentimans Victorian Lemonade,1,oz
+La Guildive,116,ginger beer,1,oz
+La Guildive,116,fresh lime juice,0.5,oz
+La Guildive,116,Licor 43,0.5,oz
+La Guildive,116,"natural peach liquer (Mathilde, Combier, or Giffard)",0.25,oz
+La Guildive,116,Rum 3,2,oz
+La Guildive,116,Grated Cinnamon,1,pinch
+Twenty Seventy Swizzle,116,fresh lime juice,0.5,oz
+Twenty Seventy Swizzle,116,SC Demerara Syrup,0.5,oz
+Twenty Seventy Swizzle,116,SC honey Syrup,0.5,oz
+Twenty Seventy Swizzle,116,St Elizabeth Allspice Dram,0.25,oz
+Twenty Seventy Swizzle,116,Rum 4,1,oz
+Twenty Seventy Swizzle,116,Rum 6,1,oz
+Twenty Seventy Swizzle,116,Herbstura,1,dash
+Twenty Seventy Swizzle,116,nutmeg,1,pinch
+Shudders in a Whisper,118,fresh lime juice,0.75,oz
+Shudders in a Whisper,118,SC Passion Fruit Syrup,0.6,oz
+Shudders in a Whisper,118,natural pear liqueur,0.5,oz
+Shudders in a Whisper,118,Drambuie liqueur,0.25,oz
+Shudders in a Whisper,118,seltzer,2,oz
+Shudders in a Whisper,118,Rum 4,2,oz
+Shudders in a Whisper,118,Peychaud's bitters,2,dashes
+Shudders in a Whisper,118,Angostra,1,dash
+Cuevas,118,SC Cinnamon Syrup,0.25,oz
+Cuevas,118,Punt e Mes,0.5,oz
+Cuevas,118,tawny port,0.25,oz
+Cuevas,118,Rum 3,2,oz
+Cuevas,118,Bittermens Elemakule tiki bitters,6,drops
+Norwegian Paralysis,119,fresh orange juice,1.5,oz
+Norwegian Paralysis,119,pineapple juice,1.5,oz
+Norwegian Paralysis,119,fresh lemon juice,0.5,oz
+Norwegian Paralysis,119,SC Demerara Syrup,0.25,oz
+Norwegian Paralysis,119,SC Orgeat,0.25,oz
+Norwegian Paralysis,119,aquavit,1.5,oz
+Juan Ho Royale,119,champagne,2,oz
+Juan Ho Royale,119,fresh lime juice,0.75,oz
+Juan Ho Royale,119,SC Orgeat,0.5,oz
+Juan Ho Royale,119,blue curacao,0.5,oz
+Juan Ho Royale,119,John D Taylor Velvet Falernum,0.5,oz
+Juan Ho Royale,119,tequila blanco,1.5,oz
+Chartreuse Swizzle,120,pineapple juice,1,oz
+Chartreuse Swizzle,120,fresh lime juice,0.75,oz
+Chartreuse Swizzle,120,John D Taylor Velvet Falernum,0.5,oz
+Chartreuse Swizzle,120,Green Chartreuse,1.5,oz
+Roselita,120,seltzer,1.5,oz
+Roselita,120,fresh lime juice,0.5,oz
+Roselita,120,SC Orgeat,0.5,oz
+Roselita,120,SC Hibiscus Liqueur,0.5,oz
+Roselita,120,natural pear liqueur,0.5,oz
+Roselita,120,Rum 4,1.5,oz
+Roselita,120,Peychaud's bitters,1,dash
+Center of the Galaxy,121,fresh lime juice,0.5,oz
+Center of the Galaxy,121,SC Demerara Syrup,0.5,oz
+Center of the Galaxy,121,SC honey Syrup,0.5,oz
+Center of the Galaxy,121,St George Raspberry Liqueur,0.5,oz
+Center of the Galaxy,121,Rum 3,2,oz
+Center of the Galaxy,121,freshly ground cinnamon,1,pinch
+Callaloo Cooler,121,seltzer,1,oz
+Callaloo Cooler,121,fresh lime juice,0.75,oz
+Callaloo Cooler,121,SC Cinnamon Syrup,0.5,oz
+Callaloo Cooler,121,Cherry Heering Liqueur,0.5,oz
+Callaloo Cooler,121,Rum 2,2,oz
+Callaloo Cooler,121,Angostra,1,dash
+Top Notch Volcano,134,fresh lime juice,4,oz
+Top Notch Volcano,134,pineapple juice,4,oz
+Top Notch Volcano,134,passion fruit puree,1,oz
+Top Notch Volcano,134,SC Demerara Syrup,3,oz
+Top Notch Volcano,134,Luxardo Maraschino liqueur,1,oz
+Top Notch Volcano,134,Rum 2,4,oz
+Top Notch Volcano,134,Rum 3,4,oz
+Naked Ape,134,fresh lemon juice,0.5,oz
+Naked Ape,134,SC Cinnamon Syrup,0.5,oz
+Naked Ape,134,Giffard Banae du Bresil banana liqueur,0.5,oz
+Naked Ape,134,Rum 5,1.5,oz
+Naked Ape,134,Rum 1 Overproof,0.5,oz
+Naked Ape,134,Angostra,1,dash
+Swizzle Francais,136,fresh lime juice,0.5,oz
+Swizzle Francais,136,Martinique Sugarcane Syrup,0.5,oz
+Swizzle Francais,136,St Elizabeth Allspice Dram,0.25,oz
+Swizzle Francais,136,Rum 8,2,oz
+Swizzle Francais,136,Ground nutmeg,1,pinch
+Sparkling Mai Tai,136,fresh lime juice,0.25,oz
+Sparkling Mai Tai,136,SC Orgeat,0.25,oz
+Sparkling Mai Tai,136,Pierre Ferrand Dry Curacao,0.5,oz
+Sparkling Mai Tai,136,Rum 6,0.25,oz
+Sparkling Mai Tai,136,Rum 3,0.5,oz
+Sparkling Mai Tai,136,chilled sparkling wine,4,oz
+The Ernesto,137,Ting grapefruit soda,2,oz
+The Ernesto,137,fresh lime juice,1,oz
+The Ernesto,137,SC honey Syrup,1,oz
+The Ernesto,137,natural apricot liqueur Rothman and Wintor or Giffard,0.5,oz
+The Ernesto,137,tequila blanco,2,oz
+The Ernesto,137,Herbstura,1,dash
+Sexpert,137,fresh lemon juice,0.5,oz
+Sexpert,137,SC Passion Fruit Syrup,0.5,oz
+Sexpert,137,John D Taylor Velvet Falernum,0.5,oz
+Sexpert,137,Peruvian pisco,1.5,oz
+Sexpert,137,gin ,0.5,oz
+Sexpert,137,bittermens burlesque bitters,6,drops
+Hana Reviver,139,fresh lemon juice,1,oz
+Hana Reviver,139,SC Passion Fruit Syrup,1,oz
+Hana Reviver,139,li hing mui powder,0.25,barspoon
+Hana Reviver,139,seltzer,2,oz
+Hana Reviver,139,Maraschino liqueur,1,barspoon
+Hana Reviver,139,pot still unaged rum,2,oz
+Kaiteur Swizzle,140,fresh lime juice,0.75,oz
+Kaiteur Swizzle,140,grade A maple syrup,0.5,oz
+Kaiteur Swizzle,140,John D Taylor Velvet Falernum,0.5,oz
+Kaiteur Swizzle,140,Rum 3 Guyana,2,oz
+Kaiteur Swizzle,140,Angostra,2,dashes
+Expedition,140,fresh lime juice,1,oz
+Expedition,140,SC Cinnamon Syrup,0.5,oz
+Expedition,140,SC honey Syrup,0.5,oz
+Expedition,140,SC Vanilla Syrup,0.25,oz
+Expedition,140,seltzer,2,oz
+Expedition,140,bittermens New Orleans Coffee Liqueur,0.25,oz
+Expedition,140,Rum 5,2,oz
+Expedition,140,bourbon,1,oz
+The Undead Gentleman,142,absinthe blanc,1,dash
+The Undead Gentleman,142,fresh lime juice,0.5,oz
+The Undead Gentleman,142,fresh grapefruit juice,0.5,oz
+The Undead Gentleman,142,SC Cinnamon Syrup,0.5,oz
+The Undead Gentleman,142,John D Taylor Velvet Falernum,0.5,oz
+The Undead Gentleman,142,Rum 6,1,oz
+The Undead Gentleman,142,Rum 3,1.5,oz
+The Undead Gentleman,142,Angostra,1,dash
+The Dead Reckoning,142,seltzer,1,oz
+The Dead Reckoning,142,fresh lemon juice,1,oz
+The Dead Reckoning,142,pineapple juice,1,oz
+The Dead Reckoning,142,grade A maple syrup,0.5,oz
+The Dead Reckoning,142,SC Vanilla Brandy,0.5,oz
+The Dead Reckoning,142,tawny port,0.5,oz
+The Dead Reckoning,142,Rum,2,oz
+The Dead Reckoning,142,Angostra,1,dash
+The Dead Reckoning,142,pineapple fronds,3,fronds
+The Dead Reckoning,142,lemon spiral,1,spiral
+Falinum,144,fresh lemon juice,1,oz
+Falinum,144,SC Coconut cream,1,oz
+Falinum,144,seltzer,1,oz
+Falinum,144,John D Taylor Velvet Falernum,0.5,oz
+Falinum,144,Rum 4,2,oz
+Falinum,144,orange bitters,1,dash
+Humuhumunukunukuapua'a,144,fresh lemon juice,0.75,oz
+Humuhumunukunukuapua'a,144,pineapple juice,0.75,oz
+Humuhumunukunukuapua'a,144,SC Orgeat,0.5,oz
+Humuhumunukunukuapua'a,144,gin,2,oz
+Humuhumunukunukuapua'a,144,Peychaud's bitters,2,dashes
+Finkelgrog,145,fresh lime juice,0.5,oz
+Finkelgrog,145,fresh grapefruit juice,0.5,oz
+Finkelgrog,145,SC Orgeat,0.25,oz
+Finkelgrog,145,Napa Wine Syrup,0.5,oz
+Finkelgrog,145,Licor 43,0.5,oz
+Finkelgrog,145,Rum 2,1,oz
+Finkelgrog,145,Rum 5,1,oz
+Finkelgrog,145,seltzer,1,oz
+Finkelgrog,145,freshly ground cinnamon,1,pinch
+For Pete's Sake,145,fresh lime juice,0.75,oz
+For Pete's Sake,145,SC Demerara Syrup,0.5,oz
+For Pete's Sake,145,SC Hibiscus Liqueur,0.5,oz
+For Pete's Sake,145,Cherry Heering Liqueur,0.5,oz
+For Pete's Sake,145,Peruvian Pisco,1.5,oz
+For Pete's Sake,145,Angostra,1,dash
+Arrack Punch,163,fresh lemon juice,2,oz
+Arrack Punch,163,fresh lime juice,2,oz
+Arrack Punch,163,SC Demerara Syrup,3,oz
+Arrack Punch,163,Batavia Arrack,6,oz
+Arrack Punch,163,Rum 1 Overproof,2,oz
+Arrack Punch,163,Carbonated Chai Tea,6,oz
+El Draque,163,fresh mint leaves,5,leaves
+El Draque,163,SC Demerara Syrup,0.75,oz
+El Draque,163,fresh lime juice,0.75,oz
+El Draque,163,pot still aged cachaca,2,oz
+Grog,165,fresh lime juice,0.5,oz
+Grog,165,SC Demerara Syrup,0.5,oz
+Grog,165,"Black Rum, Unaged Rum, Black blended",2,oz
+Rum Flip,165,medium egg,1,egg
+Rum Flip,165,SC Demerara Syrup,0.25,oz
+Rum Flip,165,Rum 3,2,oz
+Bombo,167,SC Demerara Syrup,0.25,oz
+Bombo,167,Rum 3,2,oz
+Bombo,167,Nutmeg,1,pinch
+Calibogus,167,seltzer,3,oz
+Calibogus,167,fresh lime juice,0.25,oz
+Calibogus,167,SC Molasses Syrup,0.75,oz
+Calibogus,167,spruce beer soda extract,1,drops
+Calibogus,167,Zirbenz Stone Pine liqueur,0.75,oz
+Calibogus,167,Rum 3,1.25,oz
+Mary Pickford,168,pineapple juice,1.5,oz
+Mary Pickford,168,SC Grenadine,1,barspoon
+Mary Pickford,168,Luxardo Maraschino liqueur,6,drops
+Mary Pickford,168,Rum 2,1.5,oz
+Daiquiri No. 1,168,fresh lime juice,0.75,oz
+Daiquiri No. 1,168,SC Demerara Syrup,0.5,oz
+Daiquiri No. 1,168,Rum 2,2,oz
+Hotel Nacional Special,171,pineapple chunk,3 or 4,inch chunks
+Hotel Nacional Special,171,fresh lime juice,0.75,oz
+Hotel Nacional Special,171,SC Demerara Syrup,0.5,oz
+Hotel Nacional Special,171,natural apricot liqueur Rothman and Wintor or Giffard,0.5,oz
+Hotel Nacional Special,171,Rum 2,1.5,oz
+Daisy De Santiago,171,fresh lime juice,1,oz
+Daisy De Santiago,171,SC Demerara Syrup,1.5,tsp
+Daisy De Santiago,171,seltzer,1,oz
+Daisy De Santiago,171,Yellow Chartreuse,0.5,oz
+Daisy De Santiago,171,Rum 2,1.5,oz
+El Presidente,172,SC Grenadine,0.5,tsp
+El Presidente,172,dry vermouth,0.75,oz
+El Presidente,172,Pierre Ferrand Dry Curacao,0.5,oz
+El Presidente,172,Rum 2,1.5,oz
+Twelve Mile Limit,172,fresh lemon juice,0.5,oz
+Twelve Mile Limit,172,SC Grenadine,0.5,oz
+Twelve Mile Limit,172,Rum 2,1,oz
+Twelve Mile Limit,172,Rye,0.5,oz
+Twelve Mile Limit,172,brandy,0.5,oz
+Parisian Blonde,174,Pierre Ferrand Dry Curacao,1,oz
+Parisian Blonde,174,Rum 3,1,oz
+Parisian Blonde,174,sweet cream (whipping cream and SC Demerara),1,oz
+Cora Middleton,174,egg white,2,tsp
+Cora Middleton,174,Rum 3,2,oz
+Cora Middleton,174,fresh lime juice,0.75,oz
+Cora Middleton,174,SC Demerara Syrup,0.25,oz
+Cora Middleton,174,Small Hand Foods Raspberry Gum Syrup,0.25,oz
+Cora Middleton,174,Angostra,1,dash
+Millionaire Cocktail No. 1,175,fresh lime juice,0.75,oz
+Millionaire Cocktail No. 1,175,SC Grenadine,1,dash
+Millionaire Cocktail No. 1,175,natural apricot liqueur Rothman and Wintor or Giffard,0.75,oz
+Millionaire Cocktail No. 1,175,Rum 3 or black pot still,0.75,oz
+Millionaire Cocktail No. 1,175,sloe gin,0.75,oz
+Batida De Maracuja e coco,175,passion fruit puree,0.75,oz
+Batida De Maracuja e coco,175,cocont milk,2,oz
+Batida De Maracuja e coco,175,pot still aged cachaca,1,oz
+Batida De Maracuja e coco,175,sweetened condensed milk,1,oz
+Wray & Ting,176,Wray and Nephew White Overproof,1.5,oz
+Wray & Ting,176,Ting grapefruit Soda,4,oz
+Hibiscus Rum Punch,176,seltzer,2,oz
+Hibiscus Rum Punch,176,fresh lime juice,0.5,oz
+Hibiscus Rum Punch,176,SC Hibiscus Liqueur,1,oz
+Hibiscus Rum Punch,176,SC Demerara Syrup,0.5,oz
+Hibiscus Rum Punch,176,Rum 3 Jamaica,1.5,oz
+Ti Punch/Ti Punch Vieux,179,Martinique sugarcane syrup,1,tsp
+Ti Punch/Ti Punch Vieux,179,Rum 7 OR sub Rum 8 for Vieux,2,oz
+Ti Punch/Ti Punch Vieux,179,rounded chucnk of fresh lime,1,small
+Barbados Rum Punch,179,fresh lime juice,1,oz
+Barbados Rum Punch,179,SC Demerara Syrup,1,oz
+Barbados Rum Punch,179,Rum 3,2,oz
+Barbados Rum Punch,179,Angostra,1,dash
+Jamaican Milk Punch,180,whole milk,1,oz
+Jamaican Milk Punch,180,heavy whipping cream,1,oz
+Jamaican Milk Punch,180,SC Demerara Syrup,0.5,oz
+Jamaican Milk Punch,180,Rum 5,1,oz
+Jamaican Milk Punch,180,vanilla extract,6,drops
+Jamaican Milk Punch,180,Angostra,1,dash
+Corn and Oil,180,John D Taylor Velvet Falernum,0.5,oz
+Corn and Oil,180,Rum 3 Barbados,2,oz
+Corn and Oil,180,Angostra,4,dashes
+Queen's Park Sqizzle,181,mint leaves,4,leaves
+Queen's Park Sqizzle,181,fresh lime juice,0.5,oz
+Queen's Park Sqizzle,181,SC Demerara Syrup,0.5,oz
+Queen's Park Sqizzle,181,Rum 5,2,oz
+Queen's Park Sqizzle,181,Angostra,2,dashes
+Chadburn,201,tawny port,0.5,oz
+Chadburn,201,natural pear liqueur,0.5,oz
+Chadburn,201,Rum 3,2,oz
+Chadburn,201,Bittermens Xocolatl Mole,6,drops
+A Wish for Grace,201,fresh lemon juice,0.75,oz
+A Wish for Grace,201,2:1 SimpleS Syrup,0.5,oz
+A Wish for Grace,201,Pierre Ferrand Dry Curacao,0.5,oz
+A Wish for Grace,201,Rum 1 New England,1.5,oz
+A Wish for Grace,201,Blanday's 5 year Verdelho Maderira,0.75,oz
+A Wish for Grace,201,Angostra,1,dash
+Hot Buttered Rum,202,SC Hot buttered Rum Batter,3,barspoons
+Hot Buttered Rum,202,Rum 3,1.5,oz
+Hot Buttered Rum,202,Hot Water,6,oz
+SC Hot Buttered Rum Batter,202,freshly ground cinnamon,1,tsp
+SC Hot Buttered Rum Batter,202,freshly ground nutmeg,1,tsp
+SC Hot Buttered Rum Batter,202,freshly ground black pepper,1,tsp
+SC Hot Buttered Rum Batter,202,ground cloves,0.75,tsp
+SC Hot Buttered Rum Batter,202,ground allspice,0.5,tsp
+SC Hot Buttered Rum Batter,202,ground anise seed,0.5,tsp
+SC Hot Buttered Rum Batter,202,salted butter,2,cups
+SC Hot Buttered Rum Batter,202,packed golden brown sugar,4,cups
+SC Hot Buttered Rum Batter,202,Brer Rabbit Mild Molasses,2,tbsp
+SC Hot Buttered Rum Batter,202,vanilla extract,1,tsp
+Abricot Vieux,203,natural apricot liqueur Rothman and Wintor or Giffard,0.5,oz
+Abricot Vieux,203,Rhum 8,2,oz
+Abricot Vieux,203,Angostra,1,dash
+Abricot Vieux,203,Orange bitters,1,dash
+Paniolo Old Fashioned,203,Li Hing Mui Syrup,1,tsp
+Paniolo Old Fashioned,203,Rum 3,2,oz
+Paniolo Old Fashioned,203,Angostra,1,dash
+Port Royal,204,fresh lime juice,0.75,oz
+Port Royal,204,SC Jerk Syrup,0.75,oz
+Port Royal,204,Rum 2,1.5,oz
+Port Royal,204,Wray and Nephew White Overproof,0.5,oz
+Port Royal,204,SC Hellfire Tincture,5,drops
+Kingston Palaka,204,fresh lemon juice,0.5,oz
+Kingston Palaka,204,li hing mui powder,0.5,tsp
+Kingston Palaka,204,Drambuie liqueur,1,oz
+Kingston Palaka,204,Rum 3 Jamaica,1.5,oz
+Donn Day Afternoon,206,fresh lime juice,0.5,oz
+Donn Day Afternoon,206,SC Cinnamon Syrup,0.5,oz
+Donn Day Afternoon,206,Stiegl-Radler grapefruit beer,4,oz
+Donn Day Afternoon,206,Rhum 7,2,oz
+Baie Du Galion,206,Green Chartreuse,0.5,oz
+Baie Du Galion,206,Drambuie liqueur,0.25,oz
+Baie Du Galion,206,Rhum 7,2,oz
+Agricole Guava Cooler,209,Bundaberg Guava soda,2,oz
+Agricole Guava Cooler,209,fresh lime juice,0.75,oz
+Agricole Guava Cooler,209,Licor 43,0.75,oz
+Agricole Guava Cooler,209,Rhum 7,2,oz
+Agricole Guava Cooler,209,Angostra,2,dashes
+Richard Sealebach,209,Pierre Ferrand Dry Curacao,0.5,oz
+Richard Sealebach,209,R L Seale 10 year Rum,1,oz
+Richard Sealebach,209,Angostra,7,dashes
+Richard Sealebach,209,Peychaud's bitters,7,dashes
+Richard Sealebach,209,chilled champagne,4,oz
+Cosa Nostra #2,210,fresh lemon juice,0.75,oz
+Cosa Nostra #2,210,Amaro Averna,1.5,oz
+Cosa Nostra #2,210,Rum 2,1,oz
+Cosa Nostra #2,210,Angostra,1,dash
+Cosa Nostra #2,210,real ginger ale,2,oz
+Spontaneous Rumbustion,210,fresh lemon juice,0.75,oz
+Spontaneous Rumbustion,210,SC honey Syrup,0.5,oz
+Spontaneous Rumbustion,210,Rum 6,1.5,oz
+Spontaneous Rumbustion,210,Rum 1 Overproof,0.5,oz
+Spontaneous Rumbustion,210,boiling water,4,oz
+Boo Loo,249,fresh pineapple chunks,6,inch chunks
+Boo Loo,249,pineapple juice,2.5,oz
+Boo Loo,249,fresh lime juice,1.5,oz
+Boo Loo,249,SC honey Syrup,1.25,oz
+Boo Loo,249,Rum 3,1.5,oz
+Boo Loo,249,Rum 4,1.5,oz
+Boo Loo,249,Rum 6,0.75,oz
+Boo Loo,249,seltzer,1.5,oz
+Boo Loo,249,pineapple,1,
+Caribeno,249,coconut water,4,oz
+Caribeno,249,SC Demerara Syrup,0.25,oz
+Caribeno,249,column still lightly aged or London Dry Gin,2,oz
+Monk's Respite,251,fresh coconut water,3,oz
+Monk's Respite,251,fresh lemon juice,0.5,oz
+Monk's Respite,251,SC honey Syrup,0.25,oz
+Monk's Respite,251,Yellow Chartreuse,0.25,oz
+Monk's Respite,251,Broker's Gin,1.5,oz
+Monk's Respite,251,seltzer,1,oz
+Monk's Respite,251,Orange bitters,1,dash
+The Mastadon,251,pineapple juice,3,oz
+The Mastadon,251,fresh lime juice,0.5,oz
+The Mastadon,251,passion fruit puree,1,oz
+The Mastadon,251,Licor 43,0.5,oz
+The Mastadon,251,Maraschino liqueur,0.5,oz
+The Mastadon,251,Rum 3,1.5,oz
+The Mastadon,251,bourbon,1.5,oz
+The Mastadon,251,Peychaud's bitters,2,dashes
+Pinata,252,pineapple juice,3,oz
+Pinata,252,fresh lemon juice,1,oz
+Pinata,252,SC Demerara Syrup,0.25,oz
+Pinata,252,ginger liqueur,1,oz
+Pinata,252,St Elizabeth Allspice Dram,0.5,oz
+Pinata,252,Rum 5,1,oz
+Pinata,252,Rum 2,1,oz
+Bumboat,252,pineapple juice,2,oz
+Bumboat,252,fresh lemon juice,1.5,oz
+Bumboat,252,SC Cinnamon Syrup,0.75,oz
+Bumboat,252,rye,1,oz
+Bumboat,252,Rum 2,1,oz
+Bumboat,252,almond extract,3,drops
+Bumboat,252,Bittermens Elemakule tiki bitters,6,drops
+Bumboat,252,Rum 6,0.75,oz
+Planter's Punch,258,fresh lime juice,1,oz
+Planter's Punch,258,SC Demerara Syrup,0.75,oz
+Planter's Punch,258,St Elizabeth Allspice Dram,0.25,oz
+Planter's Punch,258,Rum 3 Jamaica,3,oz
+Planter's Punch,258,Angostra,2,dashes
+Mai Tai,261,fresh lime juice,0.75,oz
+Mai Tai,261,SC Mai Tai Rich Simple Syrup,0.25,oz
+Mai Tai,261,SC Orgeat,0.25,oz
+Mai Tai,261,Pierre Ferrand Dry Curacao,0.5,oz
+Mai Tai,261,Rum 3,2,oz
+Doctor Funk,266,fresh lemon juice,0.5,oz
+Doctor Funk,266,SC Grenadine,0.25,oz
+Doctor Funk,266,fresh lime juice,0.5,oz
+Doctor Funk,266,SC Demerara Syrup,0.5,oz
+Doctor Funk,266,Herbsaint,0.25,oz
+Doctor Funk,266,black pot still rum,2.25,oz
+Doctor Funk,266,seltzer,1,oz
+Zombie,268,fresh lime juice,0.75,oz
+Zombie,268,fresh grapefruit juice,0.25,oz
+Zombie,268,SC Cinnamon Syrup,0.25,oz
+Zombie,268,SC Grenadine,1,tsp
+Zombie,268,John D Taylor Velvet Falernum,0.5,oz
+Zombie,268,Rum 3,1.5,oz
+Zombie,268,Rum 4,1.5,oz
+Zombie,268,Rum 6,1,oz
+Zombie,268,Herbstura,2,dashses
+Navy Grog,271,fresh lime jucie,0.75,oz
+Navy Grog,271,fresh grapefruit juice,0.75,oz
+Navy Grog,271,SC Demerara Syrup,0.25,oz
+Navy Grog,271,St Elizabeth Allspice Dram,0.25,oz
+Navy Grog,271,Rum 1,1,oz
+Navy Grog,271,Rum 2,1,oz
+Navy Grog,271,Rum 4,1,oz
+Scorpion,272,fresh lime juice,2,oz
+Scorpion,272,fresh orange juice,4,oz
+Scorpion,272,SC Demerara Syrup,1.5,oz
+Scorpion,272,SC Orgeat,2,oz
+Scorpion,272,Brandy,2,oz
+Scorpion,272,London dry gin,4,oz
+Scorpion,272,Rum 2,4,oz
+Fog Cutter,275,fresh lemon juice,1.5,oz
+Fog Cutter,275,fresh orange juice,1.5,oz
+Fog Cutter,275,SC Orgeat,0.5,oz
+Fog Cutter,275,pisco,1,oz
+Fog Cutter,275,ginger liqueur,0.5,oz
+Fog Cutter,275,Rum 2,2,oz
+Fog Cutter,275,oloroso sherry,0.5,oz
+Singapore Sling,276,seltzer,2,oz
+Singapore Sling,276,fresh lemon juice,0.75,oz
+Singapore Sling,276,SC Demerara Syrup,0.25,oz
+Singapore Sling,276,Cherry Heering Liqueur,0.5,oz
+Singapore Sling,276,Benedictine,0.25,oz
+Singapore Sling,276,London dry gin,1.5,oz
+Singapore Sling,276,Angostra,1,dash
+Singapore Sling,276,Orange bitters,1,dash
+Hondo Hattie's Jungle Punch,311,fresh lemon juice,1,oz
+Hondo Hattie's Jungle Punch,311,SC honey Syrup,0.5,oz
+Hondo Hattie's Jungle Punch,311,blue curacao,0.25,oz
+Hondo Hattie's Jungle Punch,311,tawny port,0.25,oz
+Hondo Hattie's Jungle Punch,311,John D Taylor Velvet Falernum,0.5,oz
+Hondo Hattie's Jungle Punch,311,natural pear liqueur,0.25,oz
+Hondo Hattie's Jungle Punch,311,Rum 3,2,oz
+Hondo Hattie's Jungle Punch,311,Angostra,1,dash
+Kahiko Punch,311,fresh lemon juice,1,oz
+Kahiko Punch,311,SC Passion Fruit Honey,1.5,oz
+Kahiko Punch,311,SC Cinnamon Syrup,0.5,oz
+Kahiko Punch,311,SC Hibiscus Liqueur,0.5,oz
+Kahiko Punch,311,pot still unaged rum,2,oz
+Kahiko Punch,311,Bittermans Elemakule Tiki Bitters,6,drops
+Triumvirate Punch,312,fresh lime juice,0.75,oz
+Triumvirate Punch,312,SC Passion Fruit Honey,1,oz
+Triumvirate Punch,312,St Elizabeth Allspice Dram,0.25,oz
+Triumvirate Punch,312,pot still unaged rum,1.5,oz
+Triumvirate Punch,312,Angostra,2,dashes
+Triumvirate Punch,312,freshly grated nutmeg,1,pinch
+Eureka Punch,312,fresh lemon juice,1.5,oz
+Eureka Punch,312,SC honey Syrup,1,oz
+Eureka Punch,312,Yellow Chartreuse,0.5,oz
+Eureka Punch,312,Rum 4,1.5,oz
+Eureka Punch,312,Angostra,1,dash
+Eureka Punch,312,real ginger ale,2,oz
+Yuletidal Wave,313,pineapple juice,2,oz
+Yuletidal Wave,313,fresh lemon juice,1,oz
+Yuletidal Wave,313,natural pear liqueur,0.5,oz
+Yuletidal Wave,313,Licor 43,0.5,oz
+Yuletidal Wave,313,St Elizabeth Allspice Dram,0.25,oz
+Yuletidal Wave,313,brandy,0.5,oz
+Yuletidal Wave,313,bourbon,1,oz
+Yuletidal Wave,313,rum 4,1,oz
+Rumbustion Punch,313,fresh lime juice,1,oz
+Rumbustion Punch,313,SC Demerara Syrup,0.5,oz
+Rumbustion Punch,313,SC Cinnamon Syrup,0.25,oz
+Rumbustion Punch,313,Rum 3,1,oz
+Rumbustion Punch,313,Rum 2,1,oz
+Rumbustion Punch,313,Herbstura,2,dashes
+Puka Punch,318,fresh lime juice,1,oz
+Puka Punch,318,fresh orange juice,0.75,oz
+Puka Punch,318,pineapple juice,0.75,oz
+Puka Punch,318,SC honey Syrup,1,oz
+Puka Punch,318,SC Passion Fruit Syrup,0.75,oz
+Puka Punch,318,John D Taylor Velvet Falernum,0.5,oz
+Puka Punch,318,Rum 3,1,oz
+Puka Punch,318,Rum 2,1,oz
+Puka Punch,318,Rum 5,0.75,oz
+Puka Punch,318,Angostra,1,dash
+Puka Punch,318,Rum 6,0.75,oz
