@@ -1,70 +1,51 @@
-#commit damnit
 $rum_index = Import-Csv -Path .\rum_index.csv
 $drinks = Import-Csv -Path .\tiki.csv
+$cocktails= ($drinks.cocktail | Get-Unique | Sort-Object)
 
-Add-Type -AssemblyName System.Windows.Forms
-Add-Type -AssemblyName System.Drawing
+$Form                                  =      New-Object System.Windows.Forms.Form
+$Form.Size                             =      New-Object System.Drawing.Size(600,400)  
 
-$form = New-Object System.Windows.Forms.Form
-$form.Text = 'Select a Cocktail'
-$form.Size = New-Object System.Drawing.Size(600,400)
-$form.StartPosition = 'CenterScreen'
+$label1 = New-Object System.Windows.Forms.Label
+$label1.Location = New-Object System.Drawing.Point(10,30)
+$label1.Size = New-Object System.Drawing.Size(280,20)
+$label1.Text = 'Please select a cocktail:'
+$form.Controls.Add($label1)
 
-$okButton = New-Object System.Windows.Forms.Button
-$okButton.Location = New-Object System.Drawing.Point(75,120)
-$okButton.Size = New-Object System.Drawing.Size(75,23)
-$okButton.Text = 'OK'
-$okButton.DialogResult = [System.Windows.Forms.DialogResult]::OK
-$form.AcceptButton = $okButton
-$form.Controls.Add($okButton)
+$label2 = New-Object System.Windows.Forms.Label
+$label2.Location = New-Object System.Drawing.Point(10,80)
+$label2.Size = New-Object System.Drawing.Size(280,20)
+$label2.Text = 'Recipe:'
+$form.Controls.Add($label2)
 
-$cancelButton = New-Object System.Windows.Forms.Button
-$cancelButton.Location = New-Object System.Drawing.Point(150,120)
-$cancelButton.Size = New-Object System.Drawing.Size(75,23)
-$cancelButton.Text = 'Cancel'
-$cancelButton.DialogResult = [System.Windows.Forms.DialogResult]::Cancel
-$form.CancelButton = $cancelButton
-$form.Controls.Add($cancelButton)
-
-$label = New-Object System.Windows.Forms.Label
-$label.Location = New-Object System.Drawing.Point(10,20)
-$label.Size = New-Object System.Drawing.Size(280,20)
-$label.Text = 'Please select a cocktail:'
-$form.Controls.Add($label)
-
-$listBox = New-Object System.Windows.Forms.ListBox
-$listBox.Location = New-Object System.Drawing.Point(10,40)
-$listBox.Size = New-Object System.Drawing.Size(260,20)
-$listBox.Height = 80
-
-$outputBox = New-Object System.Windows.Forms.ListBox
-$outputBox.Location = New-Object System.Drawing.Point(10,200)
-$outputBox.Size = New-Object System.Drawing.Size(500,20)
-$outputBox.Height = 80
-$form.Controls.Add($outputBox)
-
-$cocktails= ($drinks.cocktail | Get-Unique | Sort-Object )
-Foreach ($cocktail in $cocktails){
-
-[void] $listBox.Items.Add($cocktail)
-
-}
-
-
-$form.Controls.Add($listBox)
-$form.Topmost = $true
-$result = $form.ShowDialog()
-
-if ($result -eq [System.Windows.Forms.DialogResult]::OK)
-{
-    $drinkWanted = $listBox.SelectedItem
-    $recipe = $drinks -match $drinkWanted
-    #$ingredient.Cocktail
-
+$Combobox1                             =      New-Object System.Windows.Forms.Combobox
+$Combobox1.Location                    =      New-Object System.Drawing.Size(10,50)  
+$Combobox1.Size                        =      New-Object System.Drawing.Size(260,20)
+$Combobox1.items.AddRange($cocktails)
+$combobox2                             =      New-Object System.Windows.Forms.ListBox
+$combobox2.Location                    =      New-Object System.Drawing.Size(10,100)  
+$combobox2.Size                        =      New-Object System.Drawing.Size(500,100)
+$Form.Controls.Add($combobox1)
+$Form.Controls.Add($combobox2)
+# Populate Combobox 2 When Combobox 1 changes
+$ComboBox1_SelectedIndexChanged= {
+    $combobox2.Items.Clear() # Clear the list
+    $combobox2.Text = $null  # Clear the current entry
+    <#Switch ($ComboBox1.Text) {
+        "USA" {        
+            $CitiesUS | ForEach { $combobox2.Items.Add($_) }
+        }
+        "England" {
+            $CitiesEN | ForEach { $combobox2.Items.Add($_) }
+        }
+        "Canada" {
+            $CitiesCA | ForEach { $combobox2.Items.Add($_) }
+        }
+    }#>
     foreach ($ingredient in $recipe){
-     [void] $outputBox.Items.Add($ingredient.ingredient +" "+ $ingredient.amount+" " + $ingredient.units)
+     $combobox2.Items.Add($ingredient.ingredient +" "+ $ingredient.amount+" " + $ingredient.units)
     }
-    $form.Controls.Add($outputBox)
-    $form.Topmost = $true
-    $result = $form.ShowDialog()
 }
+
+$ComboBox1.add_SelectedIndexChanged($ComboBox1_SelectedIndexChanged)
+
+$Form.ShowDialog()
