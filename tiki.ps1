@@ -14,7 +14,7 @@ $form.Controls.Add($label1)
 $label2 = New-Object System.Windows.Forms.Label
 $label2.Location = New-Object System.Drawing.Point(10,80)
 $label2.Size = New-Object System.Drawing.Size(280,20)
-$label2.Text = 'Recipe:'
+$label2.Text = 'Recipe:'+ 
 $form.Controls.Add($label2)
 
 $label3 = New-Object System.Windows.Forms.Label
@@ -45,6 +45,9 @@ $ComboBox1_SelectedIndexChanged= {
     foreach($ing in $ToMake){
      $combobox2.Items.Add($ing.ingredient +" "+ $ing.amount+" " + $ing.units)
     }
+    $label2.Text = 'Recipe: Page '+ $ing.page
+    $form.Controls.Add($label2)
+
 }
 
 $ComboBox2_SelectedIndexChanged= {
