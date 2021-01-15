@@ -6,8 +6,8 @@ Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'Select a Computer'
-$form.Size = New-Object System.Drawing.Size(300,200)
+$form.Text = 'Select a Cocktail'
+$form.Size = New-Object System.Drawing.Size(600,400)
 $form.StartPosition = 'CenterScreen'
 
 $okButton = New-Object System.Windows.Forms.Button
@@ -29,7 +29,7 @@ $form.Controls.Add($cancelButton)
 $label = New-Object System.Windows.Forms.Label
 $label.Location = New-Object System.Drawing.Point(10,20)
 $label.Size = New-Object System.Drawing.Size(280,20)
-$label.Text = 'Please select a computer:'
+$label.Text = 'Please select a cocktail:'
 $form.Controls.Add($label)
 
 $listBox = New-Object System.Windows.Forms.ListBox
@@ -37,7 +37,13 @@ $listBox.Location = New-Object System.Drawing.Point(10,40)
 $listBox.Size = New-Object System.Drawing.Size(260,20)
 $listBox.Height = 80
 
-$cocktails=($drinks.cocktail | Get-Unique)
+$outputBox = New-Object System.Windows.Forms.ListBox
+$outputBox.Location = New-Object System.Drawing.Point(10,200)
+$outputBox.Size = New-Object System.Drawing.Size(500,20)
+$outputBox.Height = 80
+$form.Controls.Add($outputBox)
+
+$cocktails= ($drinks.cocktail | Get-Unique | Sort-Object )
 Foreach ($cocktail in $cocktails){
 
 [void] $listBox.Items.Add($cocktail)
@@ -51,6 +57,14 @@ $result = $form.ShowDialog()
 
 if ($result -eq [System.Windows.Forms.DialogResult]::OK)
 {
-    $x = $listBox.SelectedItem
-    $x
+    $drinkWanted = $listBox.SelectedItem
+    $recipe = $drinks -match $drinkWanted
+    #$ingredient.Cocktail
+
+    foreach ($ingredient in $recipe){
+     [void] $outputBox.Items.Add($ingredient.ingredient +" "+ $ingredient.amount+" " + $ingredient.units)
+    }
+    $form.Controls.Add($outputBox)
+    $form.Topmost = $true
+    $result = $form.ShowDialog()
 }
